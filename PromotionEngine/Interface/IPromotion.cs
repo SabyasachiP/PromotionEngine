@@ -6,5 +6,6 @@ namespace PromotionEngine.Interface
 {
     public interface IPromotion
     {
+        decimal GetPrice(IEnumerable<Cart> units);
     }
 }
