@@ -1,0 +1,13 @@
+D:\Mahindra\Practice\27082020\PromotionEngine\bin\Debug\netcoreapp3.1\PromotionEngine.exe
+D:\Mahindra\Practice\27082020\PromotionEngine\bin\Debug\netcoreapp3.1\PromotionEngine.deps.json
+D:\Mahindra\Practice\27082020\PromotionEngine\bin\Debug\netcoreapp3.1\PromotionEngine.runtimeconfig.json
+D:\Mahindra\Practice\27082020\PromotionEngine\bin\Debug\netcoreapp3.1\PromotionEngine.runtimeconfig.dev.json
+D:\Mahindra\Practice\27082020\PromotionEngine\bin\Debug\netcoreapp3.1\PromotionEngine.dll
+D:\Mahindra\Practice\27082020\PromotionEngine\bin\Debug\netcoreapp3.1\PromotionEngine.pdb
+D:\Mahindra\Practice\27082020\PromotionEngine\obj\Debug\netcoreapp3.1\PromotionEngine.csprojAssemblyReference.cache
+D:\Mahindra\Practice\27082020\PromotionEngine\obj\Debug\netcoreapp3.1\PromotionEngine.AssemblyInfoInputs.cache
+D:\Mahindra\Practice\27082020\PromotionEngine\obj\Debug\netcoreapp3.1\PromotionEngine.AssemblyInfo.cs
+D:\Mahindra\Practice\27082020\PromotionEngine\obj\Debug\netcoreapp3.1\PromotionEngine.csproj.CoreCompileInputs.cache
+D:\Mahindra\Practice\27082020\PromotionEngine\obj\Debug\netcoreapp3.1\PromotionEngine.dll
+D:\Mahindra\Practice\27082020\PromotionEngine\obj\Debug\netcoreapp3.1\PromotionEngine.pdb
+D:\Mahindra\Practice\27082020\PromotionEngine\obj\Debug\netcoreapp3.1\PromotionEngine.genruntimeconfig.cache
